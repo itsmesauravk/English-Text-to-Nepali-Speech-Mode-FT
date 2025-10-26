@@ -1,0 +1,23 @@
+# Core ML & Transformers
+torch>=2.1.0
+transformers>=4.40.0
+torchaudio>=2.1.0
+
+# Data & Audio processing
+numpy>=1.26.0
+scipy>=1.11.0
+
+# Web / UI
+streamlit>=1.26.0
+
+# Model inputs / validation
+pydantic>=2.6.0
+
+# Optional: for handling file paths
+pathlib>=1.0.1
+
+# Optional: for logging (Python has built-in logging, but for more features)
+# loguru>=0.7.0
+
+# Hugging Face utils
+tokenizers>=0.14.0
